@@ -1,3 +1,5 @@
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/a943a67f-6c44-4e8a-9b73-de66056e34d9" />
+
 # Technische Systemdokumentation: Multi-Node High-Density Wardriving Rig
 
 **Dokument-ID:** ARCH-WD-41C5-M9N-REV1.0  
